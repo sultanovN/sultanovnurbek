@@ -23,5 +23,5 @@ Languages: English(reading, listening) B2, Russian, Kazakh
 ### S.Seifulin Kazakh Agrotechnical Research University(KATRU)
 
 {{< rawhtml >}}
-	<a href="/contact/" style="vertical-align:middle" class="button"><span>CONTACT</span></a>
+	<a href="https://sultanovn.github.io/sultanovnurbek/contact/" style="vertical-align:middle" class="button"><span>CONTACT</span></a>
 {{< /rawhtml >}}

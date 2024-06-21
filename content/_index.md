@@ -9,7 +9,7 @@ title: "Nurbek Sultanov"
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
-		<a url="/resume/" style="vertical-align:middle" class="button"><span>RESUME</span></a>
+		<a href="https://sultanovn.github.io/sultanovnurbek/resume/" style="vertical-align:middle" class="button"><span>RESUME</span></a>
 	</div>
 
 {{< /rawhtml >}}
@@ -22,11 +22,11 @@ title: "Nurbek Sultanov"
 <article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
 
-		Main mechanics of the game:<br>
-		- Climbing<br>
-		- Gliding<br>
-		- Dialogue system<br>
+		Climbing, gliding and movement component created with C++. 
+		Dialogue System and Quests are created in Blueprints. Created cel-shader post-process, landscape, water, sky and vegetation materials.
 		<br>
+		University project.
+
 
 	<div style="display: flex; justify-content: center; align-items: center;">
 		<iframe width="950" height="534" src="https://www.youtube.com/embed/-eNHTrF8kY0?si=67sG3v6F9Ttjd6HG" title="YouTube video player" 
@@ -57,12 +57,10 @@ title: "Nurbek Sultanov"
 			<h2>Slasher</h2>
 		</div>
 
-		Sooze is a game where main character helps villagers of the island with their problems.<br>
-		Main mechanics of the game:<br>
-		- Climbing<br>
-		- Gliding<br>
-		- Dialogue<br>
+		Mostly written in Blueprints. Animation Blueprint. Attack collision.
 		<br>
+		Course work.
+
 	<div style="display: flex; justify-content: center; align-items: center;">
 		<iframe width="950" height="534" src="https://www.youtube.com/embed/3D6MKLk2kLg?si=990K7cuzb4rSlvlo" 
 	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
