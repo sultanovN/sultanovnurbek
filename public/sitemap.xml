@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sultanovN.github.io/sultanovnurbek/contact/</loc>
+    <loc>http://localhost:1313/sultanovnurbek/contact/</loc>
   </url><url>
-    <loc>https://sultanovN.github.io/sultanovnurbek/resume/</loc>
+    <loc>http://localhost:1313/sultanovnurbek/resume/</loc>
   </url><url>
-    <loc>https://sultanovN.github.io/sultanovnurbek/categories/</loc>
+    <loc>http://localhost:1313/sultanovnurbek/categories/</loc>
   </url><url>
-    <loc>https://sultanovN.github.io/sultanovnurbek/</loc>
+    <loc>http://localhost:1313/sultanovnurbek/</loc>
   </url><url>
-    <loc>https://sultanovN.github.io/sultanovnurbek/tags/</loc>
+    <loc>http://localhost:1313/sultanovnurbek/tags/</loc>
   </url>
 </urlset>

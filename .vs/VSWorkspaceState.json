@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
     "\\content",
     "\\themes",
     "\\themes\\PaperMod",
+    "\\themes\\PaperMod\\.github",
+    "\\themes\\PaperMod\\.github\\workflows",
     "\\themes\\PaperMod\\assets",
     "\\themes\\PaperMod\\assets\\css",
     "\\themes\\PaperMod\\assets\\css\\extended",
     "\\themes\\PaperMod\\assets\\js"
   ],
+  "SelectedNode": "\\themes\\PaperMod\\.github\\workflows\\gh-pages.yml",
   "PreviewInSolutionExplorer": false
 }

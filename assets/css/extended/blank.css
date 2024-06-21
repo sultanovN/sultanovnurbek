@@ -1,0 +1,163 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+div-post {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.email {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.message {
+    display: none;
+    margin-top: 10px;
+    color: gray;
+}
+
+.block-post {
+    position: relative;
+    margin-bottom: var(--gap);
+    padding: 70px;
+    padding-top: 0px;
+    background: var(--entry);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+
+
+element.style {
+    width: 503px;
+}
+
+.wp-block-cb-carousel .slick-slide {
+    overflow: hidden;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+}
+
+.slick-slide {
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.wp-block-cb-carousel:has( .slick-dots > li:nth-child(7):last-child ) {
+    --dots-width: calc( 24px * 8 );
+}
+
+
+
+
+div.gallery {
+    
+}
+
+    div.gallery:hover {
+        
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 33.33%;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.button {
+    background-color: var(--primary);
+    border: none;
+    color: var(--theme);
+    padding: 15px 32px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: calc(36px / 2);
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+    .button:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 var(--primary);
+    }
