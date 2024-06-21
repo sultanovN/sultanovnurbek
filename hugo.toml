@@ -1,0 +1,41 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Nurbek Sultanov'
+theme = 'PaperMod'
+
+[params]
+    [[homeInfoParams]]
+        Title = 'Nurbek Sultanov'
+        Content = 'Hello. I love playing videogames, and also creating them.'
+    [[socialIcons]]
+        name = 'linkedin'
+        url = 'https://www.linkedin.com/in/nurbeksultanovlink/'
+    [[socialIcons]]
+        name = 'github'
+        url = 'https://github.com/sultanovN'
+
+    [[cover]]
+        linkFullImages = true
+
+[params.meta]
+    favicon = false
+    svg = true
+    faviconVersion = "1"
+
+[menus]
+  [[menus.main]]
+    name = 'HOME'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'RESUME'
+    url = '/resume/'
+    weight = 20
+  [[menus.main]]
+    name = 'PROJECTS'
+    pageRef = '/projects/'
+    weight = 30
+  [[menus.main]]
+    name = 'CONTACT'
+    url = '/contact/'
+    weight = 40

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\static",
+    "\\themes",
+    "\\themes\\PaperMod",
+    "\\themes\\PaperMod\\assets",
+    "\\themes\\PaperMod\\assets\\css",
+    "\\themes\\PaperMod\\assets\\css\\common",
+    "\\themes\\PaperMod\\assets\\css\\includes",
+    "\\themes\\PaperMod\\layouts",
+    "\\themes\\PaperMod\\layouts\\partials"
+  ],
+  "SelectedNode": "\\themes\\PaperMod\\assets\\css\\common\\archive.css",
+  "PreviewInSolutionExplorer": false
+}
