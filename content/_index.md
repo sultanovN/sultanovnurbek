@@ -127,14 +127,13 @@ title: "Nurbek Sultanov"
 		The game created using Raylib and C++.<br>
 		
 
-	<div>
+<div>	
   <div>
     <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/heli.png">
       <img src="https://github.com/sultanovN/screenshots/blob/main/heli.png" alt="Cinque Terre">
     </a>
   </div>
 </div>
-
 	
 
 <div class="clearfix"></div>
