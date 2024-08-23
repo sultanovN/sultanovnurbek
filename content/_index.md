@@ -5,7 +5,6 @@ title: "Nurbek Sultanov"
 <h1 style="text-align: center;">Nurbek Sultanov</h1>
 <h2 style="text-align: center;">Game Programmer</h2>
 
-<h3 style="text-align: center;">Hello. I love playing video games, but more than that i love creating them.</h3>
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
@@ -65,29 +64,7 @@ title: "Nurbek Sultanov"
 	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	</div>
 
-	<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Forest">
-    </a>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Northern Lights">
-    </a>
-  </div>
-</div>
+	
 
 <div class="clearfix"></div>
 
