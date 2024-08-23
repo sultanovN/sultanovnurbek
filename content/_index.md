@@ -25,7 +25,6 @@ title: "Nurbek Sultanov"
 		Climbing, gliding and movement component created with C++. 
 		Dialogue System and Quests are created in Blueprints. Created cel-shader post-process, landscape, water, sky and vegetation materials.
 		<br>
-		University project.
 
 
 	<div style="display: flex; justify-content: center; align-items: center;">
@@ -59,7 +58,6 @@ title: "Nurbek Sultanov"
 
 		Mostly written in Blueprints. Animation Blueprint. Attack collision.
 		<br>
-		Course work.
 
 	<div style="display: flex; justify-content: center; align-items: center;">
 		<iframe width="950" height="534" src="https://www.youtube.com/embed/3D6MKLk2kLg?si=990K7cuzb4rSlvlo" 
@@ -148,14 +146,17 @@ title: "Nurbek Sultanov"
 			<h2>Helicopter</h2>
 		</div>
 
-		Sooze is a game where main character helps villagers of the island with their problems.<br>
-		Main mechanics of the game:<br>
-		- Climbing<br>
-		- Gliding<br>
-		- Dialogue<br>
-		<br>
+		You are a helicopter and you need to dodge flying missiles.<br>
+		The game created using Raylib and C++.<br>
+		
 
-	<img src='https://github.com/sultanovN/screenshots/blob/main/helicopter.png' alt=''>
+	<div>
+  <div>
+    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/heli.png">
+      <img src="https://github.com/sultanovN/screenshots/blob/main/heli.png" alt="Cinque Terre">
+    </a>
+  </div>
+</div>
 
 	
 
@@ -170,12 +171,9 @@ title: "Nurbek Sultanov"
 			<h2>Ping-Pong</h2>
 		</div>
 
-		Sooze is a game where main character helps villagers of the island with their problems.<br>
-		Main mechanics of the game:<br>
-		- Climbing<br>
-		- Gliding<br>
-		- Dialogue<br>
-		<br>
+		Two player ping-pong game. Game color scheme changes every round.<br>
+		The game created using Raylib and C++.<br>
+
 		<br>
 
 		<div style="display: flex; justify-content: center; align-items: center;">
