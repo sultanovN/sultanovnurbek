@@ -155,15 +155,9 @@ title: "Nurbek Sultanov"
 		- Dialogue<br>
 		<br>
 
-	<img src='https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true' alt=''>
+	<img src='https://github.com/sultanovN/screenshots/blob/main/helicopter.png' alt=''>
 
-	<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
+	
 
 <div class="clearfix"></div>
 
@@ -190,13 +184,7 @@ title: "Nurbek Sultanov"
     gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		</div>
 
-	<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/pong.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/pong.png?raw=true" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
+	
 
 <div class="clearfix"></div>
 

@@ -1,16 +1,18 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\css\\includes",
     "\\content",
+    "\\layouts",
+    "\\layouts\\partials",
     "\\themes",
     "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\.github",
-    "\\themes\\PaperMod\\.github\\workflows",
-    "\\themes\\PaperMod\\assets",
-    "\\themes\\PaperMod\\assets\\css",
-    "\\themes\\PaperMod\\assets\\css\\extended",
-    "\\themes\\PaperMod\\assets\\js"
+    "\\themes\\PaperMod\\layouts",
+    "\\themes\\PaperMod\\layouts\\partials",
+    "\\themes\\PaperMod\\layouts\\_default"
   ],
-  "SelectedNode": "\\themes\\PaperMod\\.github\\workflows\\gh-pages.yml",
+  "SelectedNode": "\\layouts",
   "PreviewInSolutionExplorer": false
 }
