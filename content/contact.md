@@ -17,12 +17,12 @@ summary: contact
 
 {{< rawhtml >}}
 
-<h3 class="email" id="email">email: oldgaisensei@gmail.com</h3>
+<h3 class="email" id="email">email: nurbek.sultanov.dev@gmail.com</h3>
 <p class="message" id="message">Email copied!</p>
 
 <script>
     document.getElementById('email').addEventListener('click', function() {
-        const email = 'oldgaisensei@gmail.com';
+        const email = 'nurbek.sultanov.dev@gmail.com';
         const textarea = document.createElement('textarea');
         textarea.value = email;
         document.body.appendChild(textarea);
