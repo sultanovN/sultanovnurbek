@@ -34,8 +34,8 @@ title: "Nurbek Sultanov"
 
 	<div class="responsive">
 	  <div class="gallery">
-		<a target="_blank" href="static\Projects\sooze.png">
-		  <img src="static\Projects\sooze.png" alt="Cinque Terre">
+		<a target="_blank" href="/Projects/sooze.png">
+		  <img src="/Projects/sooze.png" alt="Cinque Terre">
 		</a>
 	  </div>
 	</div>
