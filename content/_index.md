@@ -3,7 +3,7 @@ title: "Nurbek Sultanov"
 ---
 {{< rawhtml >}}
 <h1 style="text-align: center;">Nurbek Sultanov</h1>
-<h2 style="text-align: center;">Game Programmer</h2>
+<h2 style="text-align: center;">Gameplay Programmer</h2>
 
 
 
@@ -86,8 +86,8 @@ title: "Nurbek Sultanov"
 		<br>
 <div>
   <div>
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Cinque Terre">
+    <a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png">
+      <img src="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png" alt="Cinque Terre">
     </a>
   </div>
 </div>
@@ -97,16 +97,16 @@ title: "Nurbek Sultanov"
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/image_2023-05-27_11-44-09.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/image_2023-05-27_11-44-09.png?raw=true" alt="Forest">
+    <a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/shot.png">
+      <img src="https://sultanovn.github.io/sultanovnurbek/proj/shot.png" alt="Forest">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true">
-      <img src="https://github.com/sultanovN/screenshots/blob/main/ShootThemUp.png?raw=true" alt="Northern Lights">
+    <a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png">
+      <img src="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png" alt="Northern Lights">
     </a>
   </div>
 </div>
@@ -129,8 +129,8 @@ title: "Nurbek Sultanov"
 
 		<div>	
 		  <div>
-			<a target="_blank" href="https://github.com/sultanovN/screenshots/blob/main/heli.png?raw=true">
-			  <img src="https://github.com/sultanovN/screenshots/blob/main/heli.png?raw=true" alt="Cinque Terre">
+			<a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/heli.png">
+			  <img src="https://sultanovn.github.io/sultanovnurbek/proj/heli.png" alt="Cinque Terre">
 			</a>
 		  </div>
 		</div>
