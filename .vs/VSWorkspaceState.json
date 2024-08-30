@@ -1,18 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
-    "\\assets\\css\\includes",
-    "\\content",
     "\\layouts",
-    "\\layouts\\partials",
+    "\\static",
+    "\\static\\Projects",
+    "\\static\\Resume",
     "\\themes",
     "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\layouts",
     "\\themes\\PaperMod\\layouts\\partials",
+    "\\themes\\PaperMod\\layouts\\partials\\templates",
     "\\themes\\PaperMod\\layouts\\_default"
   ],
-  "SelectedNode": "\\layouts",
+  "SelectedNode": "\\static\\Resume",
   "PreviewInSolutionExplorer": false
 }
