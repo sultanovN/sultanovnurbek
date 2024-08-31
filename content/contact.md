@@ -11,13 +11,16 @@ summary: contact
 {{< /rawhtml >}}
 
 
-### [Linkedin](https://www.linkedin.com/in/nurbeksultanovlink/)
-
-### [GitHub](https://github.com/sultanovN)
 
 {{< rawhtml >}}
 
-<h3 class="email" id="email">email: nurbek.sultanov.dev@gmail.com</h3>
+<h2><a href="https://www.linkedin.com/in/nurbeksultanovlink/" target="_blank">Linkedin</a></h2>
+
+
+<h2><a href="https://github.com/sultanovN" target="_blank">GitHub</a></h2>
+
+
+<h2 class="email" id="email">email: nurbek.sultanov.dev@gmail.com</h2>
 <p class="message" id="message">Email copied!</p>
 
 <script>
