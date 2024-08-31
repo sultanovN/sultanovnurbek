@@ -79,11 +79,10 @@ title: "Nurbek Sultanov"
 			<h2>Shooter(Udemy Course for C++, Unreal)</h2>
 		</div>
 
-		Sooze is a game where main character helps villagers of the island with their problems.<br>
-		Main mechanics of the game:<br>
-		- Climbing<br>
-		- Gliding<br>
-		- Dialogue<br>
+		Third person shooter game.<br>
+		- Shooting mechanic with two weapons<br>
+		- AI enemies and allies that utilize all mechanics.<br>
+		- Pickable ammo and health items.<br>
 		<br>
 <div>
   <div>

@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\layouts",
+    "\\content",
     "\\static",
     "\\static\\pdf",
     "\\static\\proj",
     "\\themes",
     "\\themes\\PaperMod"
   ],
-  "SelectedNode": "\\static\\proj\\heli.png",
+  "SelectedNode": "\\themes\\PaperMod\\i18n",
   "PreviewInSolutionExplorer": false
 }
