@@ -25,6 +25,4 @@ Languages: English(reading, listening) B2, Russian, Kazakh
 {{< rawhtml >}}
 	<a href="https://sultanovn.github.io/sultanovnurbek/pdf/Resume_Nurbek_Sultanov_Dev.pdf"><span>PDF Resume</span></a>
 
-
-	<a href="https://sultanovn.github.io/sultanovnurbek/contact/" style="vertical-align:middle" class="button"><span>CONTACT</span></a>
 {{< /rawhtml >}}

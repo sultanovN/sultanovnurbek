@@ -9,9 +9,9 @@ title: "Nurbek Sultanov"
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
-		<a href="https://sultanovn.github.io/sultanovnurbek/resume/" style="vertical-align:middle" class="button"><span>RESUME</span></a>
+		<a href="https://sultanovn.github.io/sultanovnurbek/pdf/Resume_Nurbek_Sultanov_Dev.pdf" style="vertical-align:middle" class="button"><span>RESUME</span></a>
 	</div>
-
+	
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
