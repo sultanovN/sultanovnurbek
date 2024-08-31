@@ -18,7 +18,7 @@ title: "Nurbek Sultanov"
 
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
-<div>
+<div id="projects">
 <article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
 
