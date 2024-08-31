@@ -3,14 +3,11 @@
     "",
     "\\layouts",
     "\\static",
-    "\\static\\Projects",
-    "\\static\\Resume",
+    "\\static\\pdf",
+    "\\static\\proj",
     "\\themes",
-    "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\layouts\\partials",
-    "\\themes\\PaperMod\\layouts\\partials\\templates",
-    "\\themes\\PaperMod\\layouts\\_default"
+    "\\themes\\PaperMod"
   ],
-  "SelectedNode": "\\static\\Resume",
+  "SelectedNode": "\\static\\proj\\heli.png",
   "PreviewInSolutionExplorer": false
 }
