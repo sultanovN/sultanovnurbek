@@ -1,4 +1,4 @@
-baseURL = 'https:http://nurbeksultanov.com/'
+baseURL = 'https://nurbeksultanov.com/'
 languageCode = 'en-us'
 title = 'Nurbek Sultanov'
 theme = 'PaperMod'
@@ -29,7 +29,7 @@ theme = 'PaperMod'
     weight = 10
   [[menus.main]]
     name = 'RESUME'
-    url = 'http://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf'
+    url = 'https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf'
     weight = 20
     target="_blank"
   [[menus.main]]
@@ -38,5 +38,5 @@ theme = 'PaperMod'
     weight = 30
   [[menus.main]]
     name = 'CONTACT'
-    url = '/contact/'
+    url = 'https://nurbeksultanov.com/contact/'
     weight = 40

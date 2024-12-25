@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\public",
+    "\\public\\pdf",
     "\\static",
     "\\static\\pdf",
     "\\static\\proj",
     "\\themes",
     "\\themes\\PaperMod"
   ],
-  "SelectedNode": "\\themes\\PaperMod\\theme.toml",
+  "SelectedNode": "\\content\\_index.md",
   "PreviewInSolutionExplorer": false
 }

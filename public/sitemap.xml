@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sultanovnurbek/contact/</loc>
+    <loc>//localhost:1313///_index/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/sultanovnurbek/resume/</loc>
+    <loc>//localhost:1313///_index/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/sultanovnurbek/categories/</loc>
+    <loc>//localhost:1313///_index/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/sultanovnurbek/</loc>
+    <loc>//localhost:1313///_index/</loc>
   </url><url>
-    <loc>http://localhost:1313/sultanovnurbek/tags/</loc>
+    <loc>//localhost:1313///_index/tags/</loc>
   </url>
 </urlset>
