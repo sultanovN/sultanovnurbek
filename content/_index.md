@@ -86,8 +86,8 @@ title: "Nurbek Sultanov"
 		<br>
 <div>
   <div>
-    <a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png">
-      <img src="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png" alt="Cinque Terre">
+    <a target="_blank" href="https://nurbeksultanov.com/proj/ShootThemUp.png">
+      <img src="https://nurbeksultanov.com/proj/ShootThemUp.png" alt="Cinque Terre">
     </a>
   </div>
 </div>
@@ -98,15 +98,15 @@ title: "Nurbek Sultanov"
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="proj/shot.png">
-      <img src="https://sultanovn.github.io/sultanovnurbek/proj/shot.png" alt="Forest">
+      <img src="https://nurbeksultanov.com/proj/shot.png" alt="Forest">
     </a>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png">
-      <img src="https://sultanovn.github.io/sultanovnurbek/proj/ShootThemUp.png" alt="Northern Lights">
+    <a target="_blank" href="https://nurbeksultanov.com/proj/ShootThemUp.png">
+      <img src="https://nurbeksultanov.com/proj/ShootThemUp.png" alt="Northern Lights">
     </a>
   </div>
 </div>
@@ -129,8 +129,8 @@ title: "Nurbek Sultanov"
 
 		<div>	
 		  <div>
-			<a target="_blank" href="https://sultanovn.github.io/sultanovnurbek/proj/heli.png">
-			  <img src="https://sultanovn.github.io/sultanovnurbek/proj/heli.png" alt="Cinque Terre">
+			<a target="_blank" href="https://nurbeksultanov.com/proj/heli.png">
+			  <img src="https://nurbeksultanov.com/proj/heli.png" alt="Cinque Terre">
 			</a>
 		  </div>
 		</div>
