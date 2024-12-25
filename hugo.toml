@@ -1,4 +1,4 @@
-baseURL = 'https://sultanovN.github.io/sultanovnurbek/'
+baseURL = 'https:http://nurbeksultanov.com/'
 languageCode = 'en-us'
 title = 'Nurbek Sultanov'
 theme = 'PaperMod'
@@ -29,7 +29,7 @@ theme = 'PaperMod'
     weight = 10
   [[menus.main]]
     name = 'RESUME'
-    url = 'https://sultanovn.github.io/sultanovnurbek/pdf/Resume_Nurbek_Sultanov_Dev.pdf'
+    url = 'http://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf'
     weight = 20
     target="_blank"
   [[menus.main]]
