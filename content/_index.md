@@ -9,7 +9,7 @@ title: "Nurbek Sultanov"
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
-		<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
+		<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
 	</div>
 	
 {{< /rawhtml >}}

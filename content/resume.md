@@ -23,6 +23,6 @@ Languages: English(reading, listening) B2, Russian, Kazakh
 ### S.Seifulin Kazakh Agrotechnical Research University(KATRU)
 
 {{< rawhtml >}}
-	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf" target="_blank"><span>PDF Resume</span></a>
+	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" target="_blank"><span>PDF Resume</span></a>
 
 {{< /rawhtml >}}
