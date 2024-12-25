@@ -9,7 +9,7 @@ theme = 'PaperMod'
         Content = 'Hello. I love playing videogames, and also creating them.'
     [[socialIcons]]
         name = 'linkedin'
-        url = 'https://www.linkedin.com/in/nurbeksultanovlink/'
+        url = 'https://www.linkedin.com/in/nurbeksultanov/'
     [[socialIcons]]
         name = 'github'
         url = 'https://github.com/sultanovN'

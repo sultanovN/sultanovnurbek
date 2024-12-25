@@ -9,7 +9,7 @@ title: "Nurbek Sultanov"
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
-		<a href="https://sultanovn.github.io/sultanovnurbek/pdf/Resume_Nurbek_Sultanov_Dev.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
+		<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov_Dev.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
 	</div>
 	
 {{< /rawhtml >}}
@@ -36,7 +36,7 @@ title: "Nurbek Sultanov"
 	<div class="responsive">
 	  <div class="gallery">
 		<a target="_blank" href="proj/sooze.png">
-		  <img src="https://sultanovn.github.io/sultanovnurbek/proj/sooze.png" alt="Cinque Terre">
+		  <img src="https://nurbeksultanov.com/proj/sooze.png" alt="Cinque Terre">
 		</a>
 	  </div>
 	</div>
