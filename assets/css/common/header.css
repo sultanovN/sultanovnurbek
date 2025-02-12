@@ -70,7 +70,7 @@ body:not(.dark) #sun {
     border-bottom: 2px solid currentColor;
 }
 
-    #menu .active::hover {
+    #menu a::hover {
         opacity: 0.6;
         transition: opacity 0.3s ease;
     }
