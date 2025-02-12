@@ -1,15 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\assets\\css",
+    "\\assets\\css\\common",
+    "\\assets\\css\\core",
+    "\\assets\\css\\extended",
     "\\themes",
     "\\themes\\PaperMod",
     "\\themes\\PaperMod\\assets",
     "\\themes\\PaperMod\\assets\\css",
-    "\\themes\\PaperMod\\assets\\css\\common",
-    "\\themes\\PaperMod\\assets\\css\\core",
-    "\\themes\\PaperMod\\assets\\css\\extended",
     "\\themes\\PaperMod\\assets\\css\\includes"
   ],
+  "SelectedNode": "\\assets\\css\\common\\header.css",
   "PreviewInSolutionExplorer": false
 }

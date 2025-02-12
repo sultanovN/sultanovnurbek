@@ -18,10 +18,10 @@
 }
 
 .dark {
-    --theme: rgb(10, 10, 10);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(255, 255, 255);
-    --secondary: rgb(155, 156, 157);
+    --theme: rgb(29, 50, 52);
+    --entry: rgb(33, 57, 59);
+    --primary: rgb(245, 183, 132);
+    --secondary: rgb(96, 231, 240);
     --tertiary: rgb(65, 66, 68);
     --content: rgb(199, 199, 199);
     --code-block-bg: rgb(46, 46, 51);
