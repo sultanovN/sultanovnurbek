@@ -3,9 +3,9 @@ title: "Nurbek Sultanov"
 ---
 {{< rawhtml >}}
 <h1 style="text-align: center;">Nurbek Sultanov</h1>
-<h2 style="text-align: center;">Gameplay Programmer</h2>
+<h2 style="text-align: center;">Software Engineer</h2>
 
-<h3 style="text-align: center;">Gameplay Programmer with a passion for video games, sparked from an early age before even starting school. Started creating gameplay mechanics in university and developed a drive to continually learn and adapt. Experienced in developing a variety of personal projects, with a strong foundation in C++.</h3>
+<h3 style="text-align: center;">Software Engineer with a passion for video games, sparked from an early age before even starting school.</h3>
 
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">

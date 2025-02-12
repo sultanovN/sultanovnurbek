@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\public",
-    "\\public\\pdf",
-    "\\static",
-    "\\static\\pdf",
-    "\\static\\proj",
+    "\\assets\\css",
     "\\themes",
-    "\\themes\\PaperMod"
+    "\\themes\\PaperMod",
+    "\\themes\\PaperMod\\assets",
+    "\\themes\\PaperMod\\assets\\css",
+    "\\themes\\PaperMod\\assets\\css\\common",
+    "\\themes\\PaperMod\\assets\\css\\core",
+    "\\themes\\PaperMod\\assets\\css\\extended",
+    "\\themes\\PaperMod\\assets\\css\\includes"
   ],
-  "SelectedNode": "\\public\\pdf\\Resume_Nurbek_Sultanov.pdf",
   "PreviewInSolutionExplorer": false
 }
