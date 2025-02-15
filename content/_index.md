@@ -19,7 +19,8 @@ title: "Nurbek Sultanov"
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
 <div id="projects">
-<article class= block-post> 
+<a href="https://nurbeksultanov.com/projects/" target="_blank" style="display: block; text-align: center; font-weight: bold; text-decoration: none;">
+		<article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
 
 		Climbing, gliding and movement component created with C++. 
@@ -51,6 +52,8 @@ title: "Nurbek Sultanov"
 <div class="clearfix"></div>
 	
 </article>
+	</a>
+
 </div>
 {{< /rawhtml >}}
 
@@ -177,11 +180,6 @@ title: "Nurbek Sultanov"
 
 	</article>
 {{< /rawhtml >}}
-
-{{ $file := .Get "file" }}
-{{ readFile $file }}
-
-{{< readfile file="projects.md" >}}
 
 {{< rawhtml >}}
 	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" class="button"><span>RESUME</span></a>
