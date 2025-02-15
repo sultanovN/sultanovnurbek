@@ -7,7 +7,7 @@ summary: projects
 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
-                    <img class="project_thumb" src="https://nurbeksultanov.com/media/pin-pong.gif">
+                    <img class="project_thumb" src="https://nurbeksultanov.com/media/sooze_3mb.gif">
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -151,21 +151,32 @@ summary: projects
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+<a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
+                    <img class="project_thumb" src="https://nurbeksultanov.com/media/pin-pong.gif">
+                    <div class="game__info">
+                        <header class="project__header">
+                            <h2 class="project__title">
+                                Ping-Pong
+                            </h2>
+                            
+                        </header>
+                        <p class="project__summary">
+                            Adventure Game
+                        </p>
+                        <ul class="project__highlights">
+                            <li>
+		                    Two player ping-pong game. Game color scheme changes every round.<br>
+                            </li>
+                            <li>
+		                       The game created using Raylib and C++
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </a>
+
+
 	<article class= block-post> 
-		<div style="display: flex; justify-content: center; align-items: center;">
-			<h2>Ping-Pong</h2>
-		</div>
-
-		Two player ping-pong game. Game color scheme changes every round.<br>
-		The game created using Raylib and C++.<br>
-
-		<br>
-
-		<div style="display: flex; justify-content: center; align-items: center;">
-			<iframe width="950" height="534" src="https://www.youtube.com/embed/COdXMswe1Z8?si=aWvCkUzR-M_titZV" title="YouTube video player" 
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-    gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-		</div>
 
 	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
