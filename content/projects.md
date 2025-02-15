@@ -4,7 +4,7 @@ summary: projects
 ---
 
 {{< rawhtml >}}
-
+<article class= block-post> 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/sooze_3mb.gif">
@@ -32,7 +32,7 @@ summary: projects
                     </div>
                 </a>
             </section>
-
+</article>
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
 
