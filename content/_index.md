@@ -18,8 +18,9 @@ title: "Nurbek Sultanov"
 
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
-<div id="projects">
+
 <a href="https://nurbeksultanov.com/projects/" target="_blank" style="display: block; text-align: center; font-weight: bold; text-decoration: none;">
+	<div id="projects">
 		<article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
 
@@ -52,9 +53,10 @@ title: "Nurbek Sultanov"
 <div class="clearfix"></div>
 	
 </article>
+</div>
 	</a>
 
-</div>
+
 {{< /rawhtml >}}
 
 
