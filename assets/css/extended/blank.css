@@ -4,6 +4,42 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 
+.project {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.project__info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    row-gap: 0.5rem;
+    height: 100%;
+    padding: 1.5rem 1rem 1rem 1rem;
+    line-height: var(--line-height-paragraph);
+    transition: all 0.4s ease;
+}
+
+.project__header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color__border);
+}
+
+.project__link-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.project_thumb {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+
 div-post {
     margin-left: 100px;
     margin-right: 100px;
