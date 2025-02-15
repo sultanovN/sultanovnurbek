@@ -3,13 +3,12 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\css\\common",
     "\\assets\\css\\core",
     "\\assets\\css\\extended",
-    "\\themes",
-    "\\themes\\PaperMod",
-    "\\themes\\PaperMod\\assets",
-    "\\themes\\PaperMod\\assets\\css",
-    "\\themes\\PaperMod\\assets\\css\\includes"
+    "\\assets\\css\\includes",
+    "\\content"
   ],
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
