@@ -60,27 +60,6 @@ title: "Nurbek Sultanov"
 {{< /rawhtml >}}
 
 
-{{< rawhtml >}}
-	<article class= block-post> 
-		<div style="display: flex; justify-content: center; align-items: center;">
-			<h2>Slasher</h2>
-		</div>
-
-		Mostly written in Blueprints. Animation Blueprint. Attack collision.
-		<br>
-
-	<div style="display: flex; justify-content: center; align-items: center;">
-		<iframe width="950" height="534" src="https://www.youtube.com/embed/3D6MKLk2kLg?si=990K7cuzb4rSlvlo" 
-	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	</div>
-
-	
-
-<div class="clearfix"></div>
-
-	</article>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div >
