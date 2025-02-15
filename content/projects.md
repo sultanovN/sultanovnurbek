@@ -7,7 +7,7 @@ summary: projects
 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
-                    <img class="project__thumbnail" url="https://nurbeksultanov.com/media/pin-pong.gif">
+                    <img class=".project_thumb" url="https://nurbeksultanov.com/media/pin-pong.gif">
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -35,6 +35,7 @@ summary: projects
 
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
+
 <div id="projects">
 <article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
