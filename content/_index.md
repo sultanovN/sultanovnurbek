@@ -14,7 +14,7 @@ title: "Nurbek Sultanov"
 	
 {{< /rawhtml >}}
 
-{{< readfile file="projects.md" >}}
+{{ partial "projects.md" . }}
 
 {{< rawhtml >}}
 	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" class="button"><span>RESUME</span></a>
