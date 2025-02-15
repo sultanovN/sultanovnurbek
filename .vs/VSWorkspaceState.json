@@ -3,12 +3,14 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\common",
-    "\\assets\\css\\core",
     "\\assets\\css\\extended",
     "\\assets\\css\\includes",
-    "\\content"
+    "\\content",
+    "\\content\\fProjects",
+    "\\layouts",
+    "\\public",
+    "\\public\\media"
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\public\\favicon-16x16.png",
   "PreviewInSolutionExplorer": false
 }
