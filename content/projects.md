@@ -7,7 +7,7 @@ summary: projects
 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
-                    <img class="project__thumbnail" src="media/pin-pong.gif">
+                    <img class="project__thumbnail" url="https://nurbeksultanov.com/media/pin-pong.gif">
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
