@@ -178,6 +178,10 @@ title: "Nurbek Sultanov"
 	</article>
 {{< /rawhtml >}}
 
+{{ $file := .Get "file" }}
+{{ readFile $file }}
+
+{{< readfile file="projects.md" >}}
 
 {{< rawhtml >}}
 	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" class="button"><span>RESUME</span></a>

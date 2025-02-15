@@ -34,7 +34,7 @@ theme = 'PaperMod'
     target='_blank'
   [[menus.main]]
     name = 'PROJECTS'
-    url = '#projects'
+    url = 'https://nurbeksultanov.com/projects/'
     weight = 30
   [[menus.main]]
     name = 'CONTACT'
