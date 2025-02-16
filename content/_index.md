@@ -12,14 +12,10 @@ title: "Nurbek Sultanov"
 		<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
 	</div>
 	
-{{< /rawhtml >}}
 
-{{< rawhtml >}}
+<div class="portf">
 
-<h2 style="text-align: center;">PROJECTS</h2>
-<br>
-
-<article class= block-post> 
+<article class= "block-post"> 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/fProjects/Sooze/">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/sooze_3mb.gif">
@@ -51,11 +47,6 @@ title: "Nurbek Sultanov"
 
 
 
-{{< /rawhtml >}}
-
-
-
-{{< rawhtml >}}
 <div >
 	<article class= block-post> 
 		<div style="display: flex; justify-content: center; align-items: center;">
@@ -102,9 +93,7 @@ title: "Nurbek Sultanov"
 
 	</article>
 </div>
-{{< /rawhtml >}}
 
-{{< rawhtml >}}
 	<article class= block-post> 
 		<div style="display: flex; justify-content: center; align-items: center;">
 			<h2>Helicopter</h2>
@@ -128,9 +117,7 @@ title: "Nurbek Sultanov"
 <div class="clearfix"></div>
 
 	</article>
-{{< /rawhtml >}}
 
-{{< rawhtml >}}
 	<article class= block-post> 
 		<div style="display: flex; justify-content: center; align-items: center;">
 			<h2>Ping-Pong</h2>
@@ -154,6 +141,8 @@ title: "Nurbek Sultanov"
 <div class="clearfix"></div>
 
 	</article>
+
+</div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

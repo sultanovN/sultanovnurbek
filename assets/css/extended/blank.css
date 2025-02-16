@@ -4,6 +4,15 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 
+.portf {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 1rem;
+    margin-top: 6rem;
+    margin-left: var(--margin-side);
+    margin-right: var(--margin-side);
+}
+
 .project {
     display: flex;
     flex-direction: column;
