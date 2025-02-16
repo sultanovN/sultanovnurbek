@@ -19,7 +19,7 @@ title: "Nurbek Sultanov"
 <h2 style="text-align: center;">PROJECTS</h2>
 <br>
 
-<a href="https://nurbeksultanov.com/projects/" target="_blank" style="display: block; text-align: center; font-weight: bold; text-decoration: none;">
+<a href="https://nurbeksultanov.com/projects/" style="display: block; text-align: center; font-weight: bold; text-decoration: none;">
 	<div id="projects">
 		<article class= block-post> 
 		<h2 style="text-align: center;">Adventure Game(Sooze)</h2>
