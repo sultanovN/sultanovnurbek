@@ -110,12 +110,11 @@ title: "Nurbek Sultanov"
                             
                         </header>
                         <p class="project__summary">
-                            Adventure Game
+		                    Two player ping-pong game. Game color scheme changes every round.<br>
+                            
                         </p>
                         <ul class="project__highlights">
-                            <li>
-		                    Two player ping-pong game. Game color scheme changes every round.<br>
-                            </li>
+                          
                             <li>
 		                       The game created using Raylib and C++
                             </li>
