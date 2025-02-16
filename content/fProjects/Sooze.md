@@ -2,7 +2,7 @@
 url: '/fProjects/Sooze/'
 summary: Sooze
 ---
-
+{{< rawhtml >}}
 
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/fprojects/Sooze/">
@@ -31,3 +31,4 @@ summary: Sooze
                     </div>
                 </a>
             </section>
+{{< /rawhtml >}}
