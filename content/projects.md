@@ -6,7 +6,7 @@ summary: projects
 {{< rawhtml >}}
 <article class= block-post> 
 <section class="project">
-                <a class="project__link-wrapper" href="https://nurbeksultanov.com/fprojects/Sooze/">
+                <a class="project__link-wrapper" href="https://nurbeksultanov.com/Sooze/">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/sooze_3mb.gif">
                     <div class="game__info">
                         <header class="project__header">
