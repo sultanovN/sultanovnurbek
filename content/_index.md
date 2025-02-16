@@ -45,59 +45,70 @@ title: "Nurbek Sultanov"
             </section>
 </article>
 
-
-
-<div >
-	<article class= block-post> 
-		<div style="display: flex; justify-content: center; align-items: center;">
-			<h2>Shooter(Udemy Course for C++, Unreal)</h2>
-		</div>
-
-		Third person shooter game.<br>
-		- Shooting mechanic with two weapons<br>
-		- AI enemies and allies that utilize all mechanics.<br>
-		- Pickable ammo and health items.<br>
-		<br>
-<div>
-  <div>
-    <a target="_blank" href="https://nurbeksultanov.com/proj/ShootThemUp.png">
-      <img src="https://nurbeksultanov.com/proj/ShootThemUp.png" alt="Cinque Terre">
-    </a>
-  </div>
-</div>
-
-<a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="github-link" title="View on GitHub">
+<article class= "block-post"> 
+<section class="project">
+                <a class="project__link-wrapper" href="https://nurbeksultanov.com/fProjects/ShooterUE4/">
+                    <img class="project_thumb" src="https://nurbeksultanov.com/proj/ShootThemUp.png">
+                    <div class="game__info">
+                        <header class="project__header">
+                            <h2 class="project__title">
+                                Shooter(Udemy Course for C++, Unreal)
+                            </h2>
+                            <h3 class="project__date">
+                                2023
+                            </h3>
+                        </header>
+                        <p class="project__summary">
+                            Third person shooter game
+                        </p>
+                        <ul class="project__highlights">
+                            <li>
+                                Shooting mechanic with two weapons 
+                            </li>
+                            <li>
+                                AI enemies and allies that utilize all mechanics.
+                            </li>
+                            <li>
+                                Pickable ammo and health items.
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </a>
+            </section>
+            <a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
+</article>
 
-<div class="clearfix"></div>
-
-	</article>
-</div>
-
-	<article class= block-post> 
-		<div style="display: flex; justify-content: center; align-items: center;">
-			<h2>Helicopter</h2>
-		</div>
-
-		You are a helicopter and you need to dodge flying missiles.<br>
-		The game created using Raylib and C++.<br>
-		
-
-		<div>	
-		  <div>
-			<a target="_blank" href="https://nurbeksultanov.com/proj/heli.png">
-			  <img src="https://nurbeksultanov.com/proj/heli.png" alt="Cinque Terre">
-			</a>
-		  </div>
-		</div>
-	<a href="https://github.com/sultanovN/helicopter_helicopter" target="_blank" class="github-link" title="View on GitHub">
+<article class= "block-post"> 
+<section class="project">
+                <a class="project__link-wrapper" href="#">
+                    <img class="project_thumb" src="https://nurbeksultanov.com/proj/heli.png">
+                    <div class="game__info">
+                        <header class="project__header">
+                            <h2 class="project__title">
+                                Helicopter
+                            </h2>
+                            <h3 class="project__date">
+                                2023
+                            </h3>
+                        </header>
+                        <p class="project__summary">
+                            You are a helicopter and you need to dodge flying missiles.
+                        </p>
+                        <ul class="project__highlights">
+                            <li>
+                                The game created using Raylib and C++.
+                            </li>
+                        </ul>
+                    </div>
+                </a>
+            </section>
+            <a href="https://github.com/sultanovN/helicopter_helicopter" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
-
-<div class="clearfix"></div>
-
-	</article>
+</article>
 
 	<article class= block-post> 
 		<a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
@@ -128,7 +139,7 @@ title: "Nurbek Sultanov"
 	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
-
+</article>
 </div>
 {{< /rawhtml >}}
 
