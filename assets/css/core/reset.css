@@ -101,11 +101,12 @@ textarea {
     outline: 0;
 }
 
-button,
-input[type=button],
-input[type=submit] {
-    cursor: pointer;
-}
+    button,
+    input[type=button],
+    input[type=submit] {
+        cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
+        ;
+    }
 
 input:-webkit-autofill,
 textarea:-webkit-autofill {
