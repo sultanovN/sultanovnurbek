@@ -172,6 +172,13 @@ div.desc {
     clear: both;
 }
 
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Positions one button to the left and the other to the right */
+    align-items: center; /* Ensures vertical alignment */
+    padding: 16px; /* Optional for spacing around the container */
+}
+
 .button {
     font-family: 'Tiny5', 'Jersey 25', sans-serif;
     background-color: var(--secondary);

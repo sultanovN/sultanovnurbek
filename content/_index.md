@@ -147,6 +147,8 @@ title: "Nurbek Sultanov"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+<div class="button-container">
 	<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" class="button"><span>RESUME</span></a>
 	<a href="https://nurbeksultanov.com/contact/" style="vertical-align:middle;" class="button"><span>CONTACT</span></a>
+</div>
 {{< /rawhtml >}}
