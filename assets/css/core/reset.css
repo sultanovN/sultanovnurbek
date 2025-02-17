@@ -70,7 +70,7 @@ h1 {
     font-family: 'Sixtyfour', sans-serif; /* Fallback to sans-serif if the font fails */
     /*text-shadow: 10px 0px 0px rgba(var(--font-shadow), 0.75);*/
     font-size: 48px; /* Example font size */
-    text-shadow: rgb(57, 69, 108) 10px 0px 0px;
+    text-shadow: var(--font-shadow) 10px 0px 0px;
 }
 
 h1,
