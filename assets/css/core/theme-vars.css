@@ -17,11 +17,11 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: rgb(203, 224, 226);
     --border: rgb(174, 207, 210);
-    cursor: url(/media/WTArrow1.png) 0,0,auto;
+    cursor: url(https://nurbeksultanov.com/media/WTArrow1.png) 0,0,auto;
 }
 
 a, button, .clickable {
-    cursor: url(/media/WTHand1.png) 0,0,auto;
+    cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
 }
 
 .dark {
@@ -34,12 +34,12 @@ a, button, .clickable {
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(29, 50, 52);
     --border: rgb(45, 78, 81);
-    cursor: url(/media/DTArrow1.png) 0,0,auto;
+    cursor: url(https://nurbeksultanov.com/media/DTArrow1.png) 0,0,auto;
 }
 
-.dark a:hover, .dark button:hover, .dark .clickable:hover {
-    cursor: url(/media/DTHand1.png) 0,0,auto;
-}
+    .dark a:hover, .dark button:hover, .dark .clickable:hover {
+        cursor: url(https://nurbeksultanov.com/media/DTHand1.png) 0,0,auto;
+    }
 
 
 
