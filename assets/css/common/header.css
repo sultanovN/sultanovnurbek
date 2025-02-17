@@ -61,14 +61,15 @@ body:not(.dark) #sun {
     margin-inline-start: var(--gap);
 }
 
-#menu a {
-    font-size: 16px;
-}
+    #menu a {
+        font-family: 'Tiny5', 'Jersey25', sans-serif;
+        font-size: 16px;
+    }
 
-#menu .active {
-    font-weight: 500;
-    border-bottom: 2px solid currentColor;
-}
+    #menu .active {
+        font-weight: 500;
+        /*border-bottom: 2px solid currentColor;*/
+    }
 
     #menu a::hover {
         opacity: 0.6;
