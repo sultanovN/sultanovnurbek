@@ -101,7 +101,7 @@ a {
     text-decoration: none;
     cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
     font-family: 'Jersey 25', sans-serif;
-    text-shadow: 3px 0px 0px, rgba(var(--font-shadow), 0.75);
+    text-shadow: 3px 0px 0px, var(--font-shadow);
 }
 
 body,
