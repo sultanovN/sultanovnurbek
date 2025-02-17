@@ -34,9 +34,12 @@ title: "Nurbek Sultanov"
                                 Climbing, gliding and movement component created with C++. 
                             </li>
                             <li>
-                                Dialogue System and Quests are created in Blueprints. Created cel-shader post-process, landscape, water, sky and vegetation materials
+                                Dialogue System and Quests are created in Blueprints.
                             </li>
-                            
+                            <li>
+                                Created cel-shader post-process, landscape, water, sky and vegetation materials.
+                            </li>
+
                         </ul>
                     </div>
                 </a>

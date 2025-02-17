@@ -19,9 +19,7 @@ summary: projects
                             <h2 class="project__title">
                                 Sooze
                             </h2>
-                            <h3 class="project__date">
-                                2024
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             Adventure Game
@@ -31,9 +29,12 @@ summary: projects
                                 Climbing, gliding and movement component created with C++. 
                             </li>
                             <li>
-                                Dialogue System and Quests are created in Blueprints. Created cel-shader post-process, landscape, water, sky and vegetation materials
+                                Dialogue System and Quests are created in Blueprints.
                             </li>
-                            
+                            <li>
+                                Created cel-shader post-process, landscape, water, sky and vegetation materials.
+                            </li>
+
                         </ul>
                     </div>
                 </a>
@@ -49,9 +50,7 @@ summary: projects
                             <h2 class="project__title">
                                 Shooter(Udemy Course for C++, Unreal)
                             </h2>
-                            <h3 class="project__date">
-                                2023
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             Third person shooter game
@@ -85,9 +84,7 @@ summary: projects
                             <h2 class="project__title">
                                 Helicopter
                             </h2>
-                            <h3 class="project__date">
-                                2023
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             You are a helicopter and you need to dodge flying missiles.
