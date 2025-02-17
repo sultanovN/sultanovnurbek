@@ -168,19 +168,21 @@ div.desc {
 }
 
 .button {
+    font-family: 'Tiny5', 'Jersey 25', sans-serif;
     background-color: var(--secondary);
     border: none;
     color: var(--theme);
     padding: 15px 32px;
-    padding: 20px;
+    padding: 2px;
     width: 150px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 32px;
     border-radius: calc(36px / 2);
     transition: all 0.5s;
-    cursor: pointer;
+    cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
     margin: 5px;
+    text-shadow: 3px 0px 0px, rgba(var(--bfont-shadow), 0.75);
 }
 
 
