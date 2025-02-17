@@ -3,7 +3,6 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\core",
     "\\assets\\css\\extended",
     "\\assets\\css\\includes",
     "\\content",
@@ -12,6 +11,5 @@
     "\\public\\cfonts",
     "\\public\\cfonts\\Tiny5"
   ],
-  "SelectedNode": "\\assets\\css\\common\\main.css",
   "PreviewInSolutionExplorer": false
 }
