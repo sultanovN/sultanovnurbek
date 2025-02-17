@@ -13,6 +13,11 @@ title: "Nurbek Sultanov"
 	</div>
 	
 
+<marquee scrolldelay="30" style="color: #FFD900; font-size: 20px; 
+font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;">
+AVAILABLE FOR HIRE!</marquee>
+
+
 <div class="portf">
 
 <article class= "block-post"> 

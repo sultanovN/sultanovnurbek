@@ -62,7 +62,7 @@ body:not(.dark) #sun {
     margin-inline-start: var(--gap);
 }
 
-    #menu a {
+#menu a {
         font-family: 'Tiny5', 'Jersey25', sans-serif;
         font-size: 16px;
     }
@@ -77,12 +77,12 @@ body:not(.dark) #sun {
         /*border-bottom: 2px solid currentColor;*/
     }
 
-    #menu a::hover {
-        border-bottom: 2px solid currentColor;
-        opacity: 0.6;
-        transition: opacity 0.3s ease;
-    }
-
+#menu a::hover {
+    border-bottom: 2px solid currentColor;
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+}
+    
 .lang-switch li,
 .lang-switch ul,
 .logo-switches {
