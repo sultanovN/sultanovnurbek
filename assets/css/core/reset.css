@@ -68,8 +68,9 @@ table {
 
 h1 {
     font-family: 'Sixtyfour', sans-serif; /* Fallback to sans-serif if the font fails */
-    text-shadow: 10px 0px 0px rgba(var(--font-shadow), 0.75); /* Shadow with 10px offset */
+    /*text-shadow: 10px 0px 0px rgba(var(--font-shadow), 0.75);*/
     font-size: 48px; /* Example font size */
+    text-shadow: --font-shadow 10px 0px 0px;
 }
 
 h1,
