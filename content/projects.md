@@ -103,7 +103,7 @@ summary: projects
 </article>
 
 	<article class= block-post> 
-		<a class="project__link-wrapper" href="https://nurbeksultanov.com/projects/">
+		<a class="project__link-wrapper" href="#">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/pin-pong.gif">
                     <div class="game__info">
                         <header class="project__header">

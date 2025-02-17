@@ -16,11 +16,11 @@
 #menu {
     display: flex;
     margin: auto var(--gap);
+    font-family: 'Tiny5', 'Jersey25', sans-serif;
 }
 
 .logo {
     flex-wrap: inherit;
-    font-family: 'Tiny5', 'Jersey25', sans-serif;
 }
 
 .logo a {

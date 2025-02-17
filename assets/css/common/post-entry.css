@@ -95,12 +95,12 @@
     text-align: center;
 }
 
-.entry-cover img {
-    border-radius: var(--radius);
-    pointer-events: none;
-    width: 100%;
-    height: auto;
-}
+    .entry-cover img {
+        /*border-radius: var(--radius);*/
+        pointer-events: none;
+        width: 100%;
+        height: auto;
+    }
 
 .entry-cover a {
     color: var(--secondary);

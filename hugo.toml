@@ -30,8 +30,8 @@ theme = 'PaperMod'
   [[menus.main]]
     name = 'RESUME'
     url = 'https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf'
+    target="_blank"
     weight = 20
-    target='_blank'
   [[menus.main]]
     name = 'PROJECTS'
     url = 'https://nurbeksultanov.com/projects/'
