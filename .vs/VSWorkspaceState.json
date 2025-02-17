@@ -3,14 +3,15 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\extended",
-    "\\assets\\css\\includes",
-    "\\content",
-    "\\content\\fProjects",
-    "\\layouts",
+    "\\assets\\css\\common",
     "\\public",
-    "\\public\\media"
+    "\\public\\cfonts",
+    "\\public\\cfonts\\Jersey_25",
+    "\\public\\cfonts\\Press_Start_2P",
+    "\\public\\cfonts\\Sixtyfour",
+    "\\public\\cfonts\\Sixtyfour\\static",
+    "\\public\\cfonts\\Tiny5"
   ],
-  "SelectedNode": "\\assets\\css\\includes\\scroll-bar.css",
+  "SelectedNode": "\\content\\projects.md",
   "PreviewInSolutionExplorer": false
 }

@@ -2,7 +2,7 @@
 title: "Nurbek Sultanov"
 ---
 {{< rawhtml >}}
-<h1 style="text-align: center;">Nurbek Sultanov</h1>
+<h1 style="text-align: center;">NURBEK SULTANOV</h1>
 <h2 style="text-align: center;">Software Engineer</h2>
 
 <h3 style="text-align: center;">Software Engineer with a passion for video games, sparked from an early age before even starting school.</h3>
@@ -24,9 +24,7 @@ title: "Nurbek Sultanov"
                             <h2 class="project__title">
                                 Sooze
                             </h2>
-                            <h3 class="project__date">
-                                2024
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             Adventure Game
@@ -54,9 +52,7 @@ title: "Nurbek Sultanov"
                             <h2 class="project__title">
                                 Shooter(Udemy Course for C++, Unreal)
                             </h2>
-                            <h3 class="project__date">
-                                2023
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             Third person shooter game
@@ -90,9 +86,7 @@ title: "Nurbek Sultanov"
                             <h2 class="project__title">
                                 Helicopter
                             </h2>
-                            <h3 class="project__date">
-                                2023
-                            </h3>
+                            
                         </header>
                         <p class="project__summary">
                             You are a helicopter and you need to dodge flying missiles.

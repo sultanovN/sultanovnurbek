@@ -22,6 +22,11 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     }
 }
 
+.game-info{
+    font-family: 'Jersey 25', sans-serif;
+    font-size: 20px;
+}
+
 .project {
     display: flex;
     flex-direction: column;
@@ -79,9 +84,9 @@ div-post {
     margin-bottom: var(--gap);
     padding: 16px;
     padding-top: 0px;
-    /*background: var(--entry);*/
+    /*background: var(--entry);
     border-radius: var(--radius);
-    border: 1px solid var(--border);
+    border: 1px solid var(--border);*/
 }
 
 

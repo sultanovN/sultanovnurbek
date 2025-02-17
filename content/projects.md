@@ -4,7 +4,8 @@ summary: projects
 ---
 
 {{< rawhtml >}}
-<h2 style="text-align: center;">PROJECTS</h2>
+<h1 style="text-align: center;">PROJECTS</h1>
+
 <br>
 
 <div class="portf">

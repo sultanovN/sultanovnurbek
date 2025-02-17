@@ -5,9 +5,8 @@ summary: contact
 
 
 {{< rawhtml >}}
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 80px;">
-	<h1>CONTACT</h1>
-</div>
+<h1 style="text-align: center;">CONTACT</h1>
+
 {{< /rawhtml >}}
 
 
