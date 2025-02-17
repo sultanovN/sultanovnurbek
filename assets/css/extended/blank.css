@@ -79,7 +79,7 @@ div-post {
     }
 
     100% {
-        transform: translateX(-100%);
+        transform: translateX(-300%);
     }
 }
 
