@@ -79,7 +79,7 @@ div-post {
     margin-bottom: var(--gap);
     padding: 16px;
     padding-top: 0px;
-    background: var(--entry);
+    /*background: var(--entry);*/
     border-radius: var(--radius);
     border: 1px solid var(--border);
 }
@@ -178,7 +178,7 @@ div.desc {
     text-align: center;
     display: inline-block;
     font-size: 32px;
-    border-radius: calc(36px / 2);
+    /*border-radius: calc(36px / 2);*/
     transition: all 0.5s;
     cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
     margin: 5px;
