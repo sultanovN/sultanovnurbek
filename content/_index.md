@@ -109,9 +109,10 @@ title: "Nurbek Sultanov"
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
 </article>
-<section class="project">
 
 	<article class= block-post> 
+<section class="project">
+
 		<a class="project__link-wrapper" href="#">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/pin-pong.gif">
                     <div class="game__info">
