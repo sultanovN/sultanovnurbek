@@ -17,7 +17,7 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: rgb(203, 224, 226);
     --border: rgb(174, 207, 210);
-    --font-shadow: rgb(222, 230, 100);
+    --font-shadow: rgb(222, 230, 254);
     --bfont-shadow: rgb(57, 69, 108);
     cursor: url(https://nurbeksultanov.com/media/WTArrow1.png) 0,0,auto;
 }
@@ -37,7 +37,7 @@ a, button, .clickable {
     --code-bg: rgb(29, 50, 52);
     --border: rgb(45, 78, 81);
     --font-shadow: rgb(57, 69, 108);
-    --bfont-shadow: rgb(222, 230, 100);
+    --bfont-shadow: rgb(222, 230, 254);
     cursor: url(https://nurbeksultanov.com/media/DTArrow1.png) 0,0,auto;
 }
 
