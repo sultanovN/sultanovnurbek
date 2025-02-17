@@ -13,9 +13,9 @@ title: "Nurbek Sultanov"
 	</div>
 	
 
-<div class="marquee">
+<!--<div class="marquee">
   <span>AVAILABLE FOR HIRE!</span>
-</div>
+</div>-->
 
 
 <div class="portf">
