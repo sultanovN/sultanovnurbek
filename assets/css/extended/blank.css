@@ -73,6 +73,34 @@ div-post {
     text-decoration: underline;
 }
 
+@keyframes marquee {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    background: transparent; /* Optional */
+}
+
+    .marquee span {
+        display: inline-block;
+        font-family: 'Sixtyfour', sans-serif;
+        font-size: 32px;
+        font-weight: bolder;
+        line-height: 150%;
+        color: #FFD900;
+        text-shadow: #000000 0px 1px 1px;
+        animation: marquee 10s linear infinite;
+    }
+
 .message {
     display: none;
     margin-top: 10px;
