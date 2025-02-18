@@ -65,6 +65,7 @@ body:not(.dark) #sun {
 #menu a {
         font-family: 'Tiny5', 'Jersey25', sans-serif;
         font-size: 16px;
+        text-shadow: var(--font-shadow) 3px 0px 0px;
     }
 
     #menu .active {
