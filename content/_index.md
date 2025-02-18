@@ -148,7 +148,7 @@ title: "Nurbek Sultanov"
             </section>
 
 
-	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="github-link" title="View on GitHub">
+	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="button" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
 </article>

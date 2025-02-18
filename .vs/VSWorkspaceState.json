@@ -3,14 +3,14 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\extended",
-    "\\assets\\css\\includes",
+    "\\assets\\css\\common",
+    "\\assets\\css\\core",
     "\\content",
     "\\i18n",
     "\\public",
     "\\public\\cfonts",
     "\\public\\cfonts\\Tiny5"
   ],
-  "SelectedNode": "\\assets\\css\\includes",
+  "SelectedNode": "\\assets\\css\\common\\header.css",
   "PreviewInSolutionExplorer": false
 }
