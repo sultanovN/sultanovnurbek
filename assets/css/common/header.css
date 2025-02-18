@@ -23,10 +23,12 @@
     flex-wrap: inherit;
 }
 
-.logo a {
-    font-size: 24px;
-    font-weight: 700;
-}
+    .logo a {
+        font-family: 'Tiny5', 'Jersey25', sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        text-shadow: var(--font-shadow) 3px 0px 0px;
+    }
 
     .logo a img, .logo a svg {
         display: inline;

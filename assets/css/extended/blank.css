@@ -58,6 +58,11 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     height: 100%;
 }
 
+    .project__link-wrapper::hover {
+        background-color: rgb(37, 31, 48);
+        transition: background-color 0.3s ease;
+    }
+
 .project_thumb {
     width: 100%;
     aspect-ratio: 16 / 9;
@@ -223,7 +228,7 @@ div.desc {
     transition: all 0.2s;
     cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
     margin: 5px;
-    text-shadow: 3px 0px 0px, rgba(var(--bfont-shadow), 0.75);
+    text-shadow: var(--bfont-shadow) 3px 0px 0px;
 }
 
 
