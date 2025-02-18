@@ -76,6 +76,7 @@ body:not(.dark) #sun {
         padding-top: 21px;
         width: 74px;
         text-align: center;
+        text-shadow: var(--bfont-shadow) 3px 0px 0px;
         /*border-bottom: 2px solid currentColor;*/
     }
 
