@@ -97,7 +97,8 @@ div-post {
         font-weight: bolder;
         line-height: 150%;
         color: #FFD900;
-        text-shadow: #000000 0px 1px 1px;
+        text-shadow: rgb();
+        /* red shadow? */
         animation: marquee 20s linear infinite;
     }
 

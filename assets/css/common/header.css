@@ -71,17 +71,18 @@ body:not(.dark) #sun {
         font-weight: 500;
         background-color: var(--secondary);
         color: var(--theme);
-        padding: 2px;
+        padding: 8px;
+        padding-top: 21px;
         width: 74px;
         text-align: center;
         /*border-bottom: 2px solid currentColor;*/
     }
 
-#menu a::hover {
-    border-bottom: 2px solid currentColor;
-    opacity: 0.6;
-    transition: opacity 0.3s ease;
-}
+    #menu a::hover {
+        opacity: 0.6;
+        transition: opacity 0.3s ease;
+        border-bottom: 2px solid currentColor;
+    }
     
 .lang-switch li,
 .lang-switch ul,
