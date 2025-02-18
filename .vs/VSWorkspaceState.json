@@ -6,11 +6,11 @@
     "\\assets\\css\\common",
     "\\assets\\css\\core",
     "\\content",
+    "\\content\\fProjects",
     "\\i18n",
     "\\public",
-    "\\public\\cfonts",
-    "\\public\\cfonts\\Tiny5"
+    "\\public\\media"
   ],
-  "SelectedNode": "\\assets\\css\\common\\header.css",
+  "SelectedNode": "\\content\\fProjects\\SpaceShooter.md",
   "PreviewInSolutionExplorer": false
 }
