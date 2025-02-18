@@ -53,14 +53,11 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 }
 
 .project__link-wrapper {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
 }
 
     .project__link-wrapper::hover {
-        background-color: rgb(37, 31, 48);
-        transition: background-color 0.3s ease;
+        box-shadow: 0 12px 16px rgba(37, 31, 48,.24),0 17px 50px 0 var(37, 31, 48);
+        transform: translate(0, -3px);
     }
 
 .project_thumb {
