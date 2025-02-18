@@ -23,6 +23,11 @@
     flex-wrap: inherit;
 }
 
+    .logo:hover {
+        opacity: 0.6;
+        transition: opacity 0.3s ease;
+    }
+
     .logo a {
         font-family: 'Tiny5', 'Jersey25', sans-serif;
         font-size: 24px;
