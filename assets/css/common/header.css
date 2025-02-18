@@ -19,6 +19,11 @@
     font-family: 'Tiny5', 'Jersey25', sans-serif;
 }
 
+    #menu span:hover {
+        transition: opacity 0.3s ease;
+        border-bottom: 2px solid currentColor;
+    }
+
 .logo {
     flex-wrap: inherit;
 }
