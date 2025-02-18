@@ -14,6 +14,8 @@ summary: projects
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/fProjects/Sooze/">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/sooze_3mb.gif">
+                </a>
+
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -37,7 +39,6 @@ summary: projects
 
                         </ul>
                     </div>
-                </a>
             </section>
             <a href="https://github.com/sultanovN/Sooze" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
@@ -48,6 +49,8 @@ summary: projects
 <section class="project">
                 <a class="project__link-wrapper" href="https://nurbeksultanov.com/fProjects/ShooterUE4/">
                     <img class="project_thumb" src="https://nurbeksultanov.com/proj/ShootThemUp.png">
+                </a>
+
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -71,7 +74,6 @@ summary: projects
                             
                         </ul>
                     </div>
-                </a>
             </section>
             <a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
@@ -82,6 +84,8 @@ summary: projects
 <section class="project">
                 <a class="project__link-wrapper" href="#">
                     <img class="project_thumb" src="https://nurbeksultanov.com/proj/heli.png">
+                </a>
+
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -98,7 +102,6 @@ summary: projects
                             </li>
                         </ul>
                     </div>
-                </a>
             </section>
             <a href="https://github.com/sultanovN/helicopter_helicopter" target="_blank" class="github-link" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
@@ -110,6 +113,8 @@ summary: projects
 
 		<a class="project__link-wrapper" href="#">
                     <img class="project_thumb" src="https://nurbeksultanov.com/media/pin-pong.gif">
+                </a>
+
                     <div class="game__info">
                         <header class="project__header">
                             <h2 class="project__title">
@@ -129,7 +134,6 @@ summary: projects
                             
                         </ul>
                     </div>
-                </a>
 
             </section>
 
