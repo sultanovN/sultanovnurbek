@@ -207,10 +207,18 @@ div.desc {
 
 .button-container {
     display: flex;
-    justify-content: space-between; /* Positions one button to the left and the other to the right */
-    align-items: center; /* Ensures vertical alignment */
-    padding: 16px; /* Optional for spacing around the container */
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 16px; 
 }
+
+.social-icon {
+    transition: all 0.2s;
+}
+
+    .social-icon:hover {
+        transform: translate(0, -3px);
+    }
 
 .button {
     font-family: 'Tiny5', 'Jersey 25', sans-serif;
@@ -225,7 +233,6 @@ div.desc {
     font-size: 32px;
     /*border-radius: calc(36px / 2);*/
     transition: all 0.2s;
-    cursor: url(https://nurbeksultanov.com/media/WTHand1.png) 0,0,auto;
     margin: 5px;
     text-shadow: var(--bfont-shadow) 3px 0px 0px;
 }

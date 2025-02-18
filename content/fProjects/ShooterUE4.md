@@ -42,7 +42,7 @@ summary: Shooter
   </div>
 </div>
 
-<a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="github-link" title="View on GitHub">
+<a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="social-icon" title="View on GitHub">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
         </a>
 

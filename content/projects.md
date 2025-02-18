@@ -40,8 +40,8 @@ summary: projects
                         </ul>
                     </div>
             </section>
-            <a href="https://github.com/sultanovN/Sooze" target="_blank" class="github-link" title="View on GitHub">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
+            <a href="https://github.com/sultanovN/Sooze" target="_blank" class="social-icon" title="View on GitHub">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 42px; height: 42px;">
         </a>
 </article>
 
@@ -75,8 +75,8 @@ summary: projects
                         </ul>
                     </div>
             </section>
-            <a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="github-link" title="View on GitHub">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
+            <a href="https://github.com/sultanovN/ShootThemUp_Udemy" target="_blank" class="social-icon" title="View on GitHub">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 42px; height: 42px;">
         </a>
 </article>
 
@@ -103,8 +103,8 @@ summary: projects
                         </ul>
                     </div>
             </section>
-            <a href="https://github.com/sultanovN/helicopter_helicopter" target="_blank" class="github-link" title="View on GitHub">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
+            <a href="https://github.com/sultanovN/helicopter_helicopter" target="_blank" class="social-icon" title="View on GitHub">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 42px; height: 42px;">
         </a>
 </article>
 
@@ -138,9 +138,9 @@ summary: projects
             </section>
 
 
-	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="github-link" title="View on GitHub">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 32px; height: 32px;">
-        </a>
+	<a href="https://github.com/sultanovN/Self_Pong" target="_blank" class="social-icon" title="View on GitHub">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" style="width: 42px; height: 42px;">
+    </a>
 </article>
 </div>
 
