@@ -5,11 +5,11 @@ title: "Nurbek Sultanov"
 {{< rawhtml >}}
 <h1 style="text-align: center;">NURBEK SULTANOV</h1>
 <h2 style="text-align: center;">Software Engineer</h2>
-
+<div style="width=600px;">
 <h3 style="text-align: center;">Hi! Thank you for your attention. I admire video games and see them as the most interesting form of art.
 More than just playing games, the process and result of creating an experience
 bring my enjoyment to the next level.</h3>
-
+</div>
 
 	<div style="display: flex; justify-content: center; align-items: center; margin-top: 60px; margin-bottom: 80px;">
 		<a href="https://nurbeksultanov.com/pdf/Resume_Nurbek_Sultanov.pdf" target="_blank" style="vertical-align:middle" class="button"><span>RESUME</span></a>
