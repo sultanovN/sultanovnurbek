@@ -3,14 +3,14 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\css\\common",
     "\\assets\\css\\core",
+    "\\assets\\css\\extended",
     "\\content",
     "\\content\\fProjects",
     "\\i18n",
     "\\public",
     "\\public\\media"
   ],
-  "SelectedNode": "\\content\\aboutme.md",
+  "SelectedNode": "\\public\\favicon-16x16.png",
   "PreviewInSolutionExplorer": false
 }
